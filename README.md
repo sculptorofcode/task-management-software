@@ -1,6 +1,6 @@
 # 📋 Task Management App
 
-<img src="https://raw.githubusercontent.com/sculptorofcode/task-management-software/refs/heads/main/public/images/banner.png" alt="Leading Image" width="100%">
+<img src="https://raw.githubusercontent.com/sculptorofcode/task-management-software/refs/heads/master/public/images/banner.png" alt="Leading Image" width="100%">
 
 A robust Task Management application built with **Next.js**, **MongoDB**, and **NextAuth**. This application empowers users to efficiently manage tasks, view insightful statistics, and update task statuses in real-time. Admin users benefit from advanced features, including comprehensive statistics on task distribution and user assignments.
 
