@@ -1,30 +1,35 @@
 # 📋 Task Management App
 
-<img src="https://raw.githubusercontent.com/sculptorofcode/task-management-soft/refs/heads/main/public/images/banner.png" alt="Leading Image" width="100%">
+<img src="https://raw.githubusercontent.com/sculptorofcode/task-management-software/refs/heads/main/public/images/banner.png" alt="Leading Image" width="100%">
 
 A robust Task Management application built with **Next.js**, **MongoDB**, and **NextAuth**. This application empowers users to efficiently manage tasks, view insightful statistics, and update task statuses in real-time. Admin users benefit from advanced features, including comprehensive statistics on task distribution and user assignments.
 
 ## 📚 Table of Contents
 
-- [✨ Features](#-features)
-- [🛠️ Technologies](#️-technologies)
-- [🚀 Getting Started](#-getting-started)
-  - [📋 Prerequisites](#-prerequisites)
-  - [⚙️ Installation](#️-installation)
-- [🔧 Configuration](#-configuration)
-- [📘 Usage](#-usage)
-  - [👤 User Role](#-user-role)
-  - [👑 Admin Role](#-admin-role)
-  - [🔑 Admin Credentials](#-admin-credentrials)
-- [🔌 API Endpoints](#-api-endpoints)
-- [🏗️ Project Structure](#️-project-structure)
-- [🎨 Customizing the App](#-customizing-the-app)
-- [🧪 Testing](#-testing)
-- [🚢 Deployment](#-deployment)
-- [🔮 Future Improvements](#-future-improvements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
+- [📋 Task Management App](#-task-management-app)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [✨ Features](#-features)
+    - [For All Users](#for-all-users)
+    - [Admin-Exclusive Features](#admin-exclusive-features)
+  - [🛠️ Technologies](#️-technologies)
+  - [🚀 Getting Started](#-getting-started)
+    - [📋 Prerequisites](#-prerequisites)
+    - [⚙️ Installation](#️-installation)
+  - [🔧 Configuration](#-configuration)
+  - [📘 Usage](#-usage)
+    - [👤 User Role](#-user-role)
+    - [👑 Admin Role](#-admin-role)
+    - [🔑 Admin Credentials](#-admin-credentials)
+  - [🔌 API Endpoints](#-api-endpoints)
+  - [🎨 Customizing the App](#-customizing-the-app)
+    - [🔐 User Authentication](#-user-authentication)
+    - [📝 Task Model](#-task-model)
+  - [🧪 Testing](#-testing)
+  - [🚢 Deployment](#-deployment)
+  - [🔮 Future Improvements](#-future-improvements)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
+  - [🙏 Acknowledgements](#-acknowledgements)
 
 ## ✨ Features
 
@@ -67,13 +72,13 @@ A robust Task Management application built with **Next.js**, **MongoDB**, and **
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sculptorofcode/task-management-soft.git
+   git clone https://github.com/sculptorofcode/task-management-software.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd task-management-soft
+   cd task-management-software
    ```
 
 3. Install dependencies:
@@ -146,7 +151,7 @@ Admin users have additional capabilities:
 🏗️ Project Structure
 
 ```
-task-management-soft/
+task-management-software/
 │
 ├── public/
 │   └── [Static files]
@@ -273,4 +278,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-For any questions or support, please [open an issue](https://github.com/sculptorofcode/task-management-soft/issues) or contact the maintainers.
+For any questions or support, please [open an issue](https://github.com/sculptorofcode/task-management-software/issues) or contact the maintainers.
